@@ -8,7 +8,7 @@ I am highly interested in Computer Science, Artificial intelligence, Computer Vi
 I am currently Head of Software Development at [MRL-HSL](https://sites.google.com/view/mrl-hsl) Humanoid Robotic Team.\
 My CV could be found [here](https://soheilkhatibi.github.io/documents/cite.pdf).
 
-## Current Interests and Projects:
+## My Research Interests:
 
 - Artificial Intelligence
 - Machine Learning
