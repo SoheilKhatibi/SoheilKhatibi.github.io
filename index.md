@@ -10,7 +10,7 @@ My CV could be found [here](https://soheilkhatibi.github.io/documents/cv.pdf).
 
 ## My Research Interests:
 
-- Artificial Intelligence
-- Machine Learning
-- Robotics
 - Reinforcement Learning
+- Artificial Intelligence
+- Robotics
+- Machine Learning
