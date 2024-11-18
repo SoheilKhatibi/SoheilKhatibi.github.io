@@ -32,6 +32,62 @@ Hi, I'm **Soheil Khatibi**, a Master's student specializing in **Machine Learnin
 - Admittance is only possible by NODET’s entrance exam  
 
 
+## Awards & Honors
+
+### MRL-HSL, IranOpen Competitions 2023 - Tehran, Iran  
+*Apr 2023*  
+- 1st place in International Humanoid Kid Size Robot League  
+
+### MRL-HSL, RoboCup 2021 - WorldWide  
+*Jul 2021*  
+- 2nd place in International Humanoid Kid Size Robot League  
+
+### MRL-HSL, RoboCup Asia Pacific 2019 - Moscow, Russia  
+*Nov 2019*  
+- 2nd place in International Humanoid Kid Size Robot League  
+
+### MRL-HSL, RoboCup 2019 - Sydney, Australia  
+*Jul 2019*  
+- 1st place in International Humanoid Teen Size Robot League  
+- 1st place in International Humanoid Teen Size Drop-In Challenge  
+- 2nd place in International Humanoid Teen Size Technical Challenge  
+- 3rd place in International Humanoid Teen Size Best Humanoid Robots  
+
+### MRL-HSL, RoboCup Asia Pacific 2018 - Kish Island, Iran  
+*Dec 2018*  
+- 1st place in International Humanoid Kid Size Robot League  
+- 1st place in International Humanoid Kid Size Technical Challenge  
+- 1st place in International Humanoid Teen Size Robot League  
+- 1st place in International Humanoid Teen Size Technical Challenge  
+
+### MRL-HSL, RoboCup 2018 - Montreal, Canada  
+*Jun 2018*  
+- 2nd place in International Humanoid Kid Size Robot League  
+- 3rd place in International Humanoid Kid Size Drop-In Challenge  
+- 2nd place in International Humanoid Teen Size Robot League  
+- 3rd place in International Humanoid Teen Size Technical Challenge  
+- 1st place in International Humanoid Teen Size Drop-In Challenge  
+
+### MRL-HSL, IranOpen Competitions - Tehran, Iran  
+*Mar 2018*  
+- 1st place in International Humanoid Kid Size Robot  
+- 1st place in International Humanoid Teen Size Robot  
+
+### MRL-HSL, RoboCup Asia Pacific 2017 - Bangkok, Thailand  
+*Dec 2017*  
+- 1st place in International Humanoid Kid Size Robot League  
+- 1st place in International Humanoid Kid Size Technical Challenge  
+- 1st place in International Humanoid Kid Size Drop-In Challenge  
+
+### MRL-HSL Kid Size Team, RoboCup 2017 - Nagoya, Japan  
+*Jul 2017*  
+- 1st place in International Humanoid Kid Size Technical Challenge  
+
+### MRL-HSL Kid Size Team, IranOpen Competitions - Tehran, Iran  
+*Mar 2017*  
+- 2nd place in International Humanoid Kid Size Robot  
+
+
 ## Projects
 - [Dynamic Tactile Data](https://data.mendeley.com): Dataset for haptics research.
 - [Localization for Humanoid Robots](#): Algorithms for soccer-playing robots.
