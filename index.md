@@ -5,6 +5,8 @@ title: Soheil Khatibi
 
 # Welcome to My Website
 
+![Soheil Khatibi](https://raw.githubusercontent.com/SoheilKhatibi/SoheilKhatibi/main/images/Soheil_Khatibi.jpg)
+
 Hi, I'm **Soheil Khatibi**, a Master's student specializing in **Machine Learning**, **Robotics**, and **Data Science**. Explore my projects and publications below.
 
 ## Projects

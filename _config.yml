@@ -5,3 +5,5 @@ email: soheil.khatibi@example.com
 baseurl: "" # Leave blank for GitHub Pages
 url: "https://SoheilKhatibi.github.io"
 theme: minimal
+custom_css:
+  - css/styles.css
