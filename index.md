@@ -7,17 +7,18 @@ title: Soheil Khatibi
 
 ![Soheil Khatibi](https://raw.githubusercontent.com/SoheilKhatibi/SoheilKhatibi/main/images/Soheil_Khatibi.jpg)
 
-Hi, I'm **Soheil Khatibi**, a Master's student specializing in **Machine Learning**, **Robotics**, and **Data Science**. Explore my projects and publications below.
+Hi, I'm **Soheil Khatibi**, a Master's student interested in **Robotics**, **Artificial Intelligence**, **Reinforcement Learning**, **Machine Learning**.
+<!-- Explore my projects and publications below. -->
 
-<!-- Table of Contents -->
+<!-- Table of Contents
 ## Table of Contents
 - [Education](#education)
 - [Awards & Honors](#awards--honors)
 - [Projects](#projects)
 - [Publications](#publications)
-- [Contact](#contact)
+- [Contact](#contact) -->
 
-## Education
+<!-- ## Education
 ### MSc in Computer Science
 Lakehead University, Thunder Bay, ON, Canada
 *Jan 2024 - Present*
@@ -92,16 +93,16 @@ Sampad Qazvin (NODET), Qazvin, Iran
 
 ### MRL-HSL Kid Size Team, IranOpen Competitions - Tehran, Iran  
 *Mar 2017*  
-- 2nd place in International Humanoid Kid Size Robot  
+- 2nd place in International Humanoid Kid Size Robot  -->
 
 
-## Projects
+<!-- ## Projects
 - [Dynamic Tactile Data](https://data.mendeley.com): Dataset for haptics research.
 - [Localization for Humanoid Robots](#): Algorithms for soccer-playing robots.
 
 ## Publications
 - [ICRA 2025 Paper](#): Texture classification research.
-- [Webots Simulation](#): Humanoid robot soccer environments.
+- [Webots Simulation](#): Humanoid robot soccer environments. -->
 
 ## Contact
 - **Email:** [soheilkhatibi1377@gmail.com](mailto:soheilkhatibi1377@gmail.com)
