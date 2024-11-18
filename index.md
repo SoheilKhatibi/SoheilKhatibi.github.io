@@ -9,6 +9,14 @@ title: Soheil Khatibi
 
 Hi, I'm **Soheil Khatibi**, a Master's student specializing in **Machine Learning**, **Robotics**, and **Data Science**. Explore my projects and publications below.
 
+<!-- Table of Contents -->
+## Table of Contents
+- [Education](#education)
+- [Awards & Honors](#awards--honors)
+- [Projects](#projects)
+- [Publications](#publications)
+- [Contact](#contact)
+
 ## Education
 ### MSc in Computer Science
 Lakehead University, Thunder Bay, ON, Canada
@@ -28,8 +36,7 @@ Qazvin Azad University, Qazvin, Iran
 ### High School Diploma & Pre-University in Mathematics and Physics
 Sampad Qazvin (NODET), Qazvin, Iran
 *Sep 2012 - Sep 2016*
-- Sampad Qazvin is a branch Pre-University of the NODET (National Organization for Development of Exceptional Talents)
-- Admittance is only possible by NODET’s entrance exam
+- Sampad Qazvin is a branch Pre-University of the NODET (National Organization for Development of Exceptional Talents). Admittance is only possible by NODET’s entrance exam
 
 
 ## Awards & Honors
