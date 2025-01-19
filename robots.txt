@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://SoheilKhatibi.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://soheilkhatibi.github.io/sitemap.xml
